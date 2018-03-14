@@ -11,11 +11,11 @@ body {
   font-size: 550%;
 }
 
-.fa {
+.fab {
   color: #8A2BE2;
 }
 
-.fa:hover {
+.fab:hover {
   color: #FFFFFF;
   text-shadow: 0px 0px 5px #A9A9A9;
 }
